@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+YAN+SARDINHA;I+STUDY+SOFTWARE+ENGINEERING+AT+CEULP/ULBRA;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&size=24&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hello%2C+my+name+is+Yan+Sardinha;I'm+studying+software+engineering+at+CEULP%2FULBRA)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yangsardinha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-sardinha) 
